@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633994309995",
+    "firebase_url": "https://uwavee-app.firebaseio.com",
+    "project_id": "uwavee-app",
+    "storage_bucket": "uwavee-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633994309995:android:05338237e018921d",
+        "android_client_info": {
+          "package_name": "com.foursquare.takehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633994309995-n81aurfhg06b8ql2mpes0fc0uu6mt5n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foursquare.takehome",
+            "certificate_hash": "ba367add21a0a102af8feaf85f0d0e322918ef97"
+          }
+        },
+        {
+          "client_id": "633994309995-22ndmd2o6s0gp6d1f5211bueiru3aq7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2nCfNBDE5OwdTkpYKVkrFJDdD-FQUBIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633994309995-22ndmd2o6s0gp6d1f5211bueiru3aq7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
